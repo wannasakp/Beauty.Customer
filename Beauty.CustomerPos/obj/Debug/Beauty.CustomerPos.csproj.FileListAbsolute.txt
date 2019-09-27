@@ -1,0 +1,15 @@
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\bin\Debug\Beauty.CustomerPos.dll.config
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\bin\Debug\Beauty.CustomerPos.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\bin\Debug\Beauty.CustomerPos.pdb
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.csprojAssemblyReference.cache
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.Properties.Resources.resources
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.csproj.GenerateResource.cache
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.csproj.CoreCompileInputs.cache
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.pdb
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.cMain.resources
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.cEditCustomer.resources
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.Modaldialog.resources
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.cCoPro.resources
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\bin\Debug\k.libary.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.CustomerPos\obj\Debug\Beauty.CustomerPos.csproj.CopyComplete

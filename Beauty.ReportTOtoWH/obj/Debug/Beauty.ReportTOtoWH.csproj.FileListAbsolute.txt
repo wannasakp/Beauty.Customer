@@ -1,0 +1,13 @@
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\bin\Debug\Beauty.ReportTOtoWH.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\bin\Debug\Beauty.ReportTOtoWH.pdb
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.csprojAssemblyReference.cache
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.Properties.Resources.resources
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.csproj.GenerateResource.cache
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.csproj.CoreCompileInputs.cache
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.pdb
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.ReportTotoWH.resources
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\bin\Debug\k.libary.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.csproj.CopyComplete
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.DetailTO.resources
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.ReportTOtoWH\obj\Debug\Beauty.ReportTOtoWH.ReportTRtoWH.resources

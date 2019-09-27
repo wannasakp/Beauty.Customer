@@ -1,0 +1,16 @@
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\bin\Debug\Beauty.SyncTo.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\bin\Debug\Beauty.SyncTo.pdb
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\bin\Debug\k.libary.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\bin\Debug\office.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\bin\Debug\stdole.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\bin\Debug\office.xml
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\obj\Debug\Beauty.SyncTo.csprojAssemblyReference.cache
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\obj\Debug\Beauty.SyncTo.Properties.Resources.resources
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\obj\Debug\Beauty.SyncTo.csproj.GenerateResource.cache
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\obj\Debug\Beauty.SyncTo.csproj.CoreCompileInputs.cache
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\obj\Debug\Beauty.SyncTo.csproj.CopyComplete
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\obj\Debug\Beauty.SyncTo.dll
+D:\BEAUTYPROJECT\Beauty.Customer\Beauty.SyncTo\obj\Debug\Beauty.SyncTo.pdb
